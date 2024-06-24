@@ -1,0 +1,23 @@
+div {
+    font-size: 36px;
+    background-color: rgba(227, 186, 143, 0.9);
+    border: 3px solid;
+   
+  }
+  
+  label {
+    font-size: 26px;
+    
+  }
+  
+  input {
+    margin-bottom: 2.7rem;
+  }
+  
+  body {
+    background-color: rgba(127, 186, 143, 0.1);
+  }
+  /*
+  button {
+  }
+  */
